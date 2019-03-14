@@ -21,11 +21,11 @@ ZSH_THEME="arrow-minimal"
 * Git sha 
 * Git branch
 * Git status
-    * `𐄂` —— Dirty branch
-    * `✓` —— Clean branch
-    * `↓` —— Behind remote
-    * `↑` —— Ahead remote
-    * `↔` —— Diverged remote
+    * `𐄂` – Dirty branch
+    * `✓` – Clean branch
+    * `↓` – Behind remote
+    * `↑` – Ahead remote
+    * `↔` – Diverged remote
 * Prompt indicator `→` turns red if the last run fails
 * Vi-mode red indicator `❮❮❮`
 
